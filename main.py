@@ -11,7 +11,7 @@ import time
 
 token = os.getenv("token")
 channel_id = os.getenv("channel_id")
-messages = ['owo cash', 'owo h', 'owo daily', 'owo cf 10000', 'owo quest', 'owo zoo', 'owo cookie', 'owo hunt', 'owo lootbox', 'owo roll 100', 'owo cf t', 'owo cf h', 'owo cf h 1000', 'owo pray', 'w inv', 'w lb all']
+messages = ['owo cash', 'owo h', 'owo daily', 'owo cf 10000', 'owo quest', 'owo zoo', 'owo cookie', 'owo hunt', 'owo lootbox', 'owo roll 100', 'owo cf t', 'owo cf h', 'owo cf h 1000', 'owo crate all', 'w inv', 'w lb all']
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0',
     'Authorization': token
