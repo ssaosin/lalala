@@ -34,7 +34,7 @@ print(f'''
 ''')
 
 while True:
-    wait_time = random.randint(1,2)
+    wait_time = random.randint(10,15)
                                
                               
 
